@@ -1,1 +1,1 @@
-#for the practice of the git and git hub.
+# For the practice of the git and git hub.
